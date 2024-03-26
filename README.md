@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20KDG's%20GitHub!&fontSize=30&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20KTY's%20GitHub!&fontSize=30&fontAlignY=30)
 </div>
 <div align="center">
  :blush: -My Stacks- :blush:
